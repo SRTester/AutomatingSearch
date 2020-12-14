@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103251" started-at="2020-12-05T16:07:37Z" finished-at="2020-12-05T16:09:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103251" started-at="2020-12-05T16:07:37Z" finished-at="2020-12-05T16:09:20Z">
+      <class name="com.qa.SearchTest.AmazonDemo2">
+        <test-method status="PASS" signature="amazonTest()[pri:0, instance:com.qa.SearchTest.AmazonDemo2@2d45ba]" name="amazonTest" duration-ms="103080" started-at="2020-12-05T16:07:37Z" finished-at="2020-12-05T16:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- com.qa.SearchTest.AmazonDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
